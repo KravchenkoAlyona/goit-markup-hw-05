@@ -713,6 +713,7 @@ button {
 }
 
 /* модалка */
+
 .backdrop {
   position: fixed;
   top: 0;
